@@ -28,7 +28,7 @@ $medico_notas->notasMedico($cedula,$usuario,$notas);
 if($notas<>"")
 
 {
-      echo "<script language='javascript'>alert('La nota se ha ingresado')</script>";
+      echo "<script language='javascript'>alert('La nota del paciente se ha ingresado')</script>";
 	}
 
 
