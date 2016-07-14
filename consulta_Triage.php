@@ -1,4 +1,8 @@
 <?php
+/**
+ * Autor Brayan Botello
+ * Prueba 1
+*/
 
 include('Class/motor.php');
 
