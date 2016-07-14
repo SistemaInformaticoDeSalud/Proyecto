@@ -17,7 +17,7 @@ $notas_enfermera->notasEnfermera($cedula,$usuario,$notas);
 if($notas<>"")
 
 {
-      echo "<script language='javascript'>alert('La nota se ha ingresado')</script>";
+      echo "<script language='javascript'>alert('La  Nota Se Ha Ingresado Correctamente')</script>";
 	}
 	
 ?>
